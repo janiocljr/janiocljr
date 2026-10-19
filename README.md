@@ -30,7 +30,7 @@ UniBrasil
 
 ```ts
 const janio = {
-  role: "Backend Developer",
+  role: "Fullstack Developer",
 
   languages: [
     "JavaScript",
