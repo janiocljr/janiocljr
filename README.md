@@ -4,7 +4,7 @@
 
 <img align="right" src="./assets/me.png" width="180px">
 
-💼 Backend Developer at 
+💼 Fullstack Developer at 
 <a href='https://www.grupoboticario.com.br/'>
 Grupo Boticário
 </a>
